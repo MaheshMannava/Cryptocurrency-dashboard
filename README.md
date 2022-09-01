@@ -1,4 +1,4 @@
-# This is cryptocurrency dashboard built using with nextjs, nodejs, bootstrap and coingecko api.
+# This is a cryptocurrency dashboard built using with nextjs, nodejs, bootstrap and coingecko api.
 ### Displays statistics of the first 100 cryptocurrencies.
 ### Deployed site: https://cryptocurrency-dashboard-maheshmannava.vercel.app/ 
 
